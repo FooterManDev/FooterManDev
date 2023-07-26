@@ -6,6 +6,10 @@ Hello! I'm a Minecraft Modpack Developer @TheGangModpacks.
 
 The Gang Modpacks: Fun in the Sky
 
-FooterMan15: TGM Launcher
+FooterMan15: Tritium Minecraft Launcher
 
 FooterMan15: FM's General Machinery
+
+FooterMan15: FM's General Chickens
+
+FooterMan15: KubeJS Solar Panels
