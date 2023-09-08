@@ -4,7 +4,7 @@ Hello! I'm a Minecraft Modpack Developer @TheGangModpacks.
 
 ### Current Active Projects
 
-The Gang Modpacks: Fun in the Sky
+The Gang Modpacks: All of Factory
 
 FooterMan15: Tritium Minecraft Launcher
 
