@@ -1,1 +1,15 @@
-![Metrics](https://metrics.lecoq.io/FooterMan15?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
+Hello o/
+
+I develop software. Not very good at it, but I try my best.
+
+I make Minecraft mods, along with a special MC IDE Launcher.
+Otherwise, I make random stuff for fun.
+
+Kotlin is the best programming language ever and you cannot tell me otherwise. \
+I strongly dislike any programming language that overuses arrow brackets <>. Who decided this was a good idea? \
+Otherwise I don't mind using Java, JS or Elixir from time to time.
+
+I also do pixel art, mainly for MC textures.
+
+Other than that I am generally friendly and talkative. \
+Feel free to hang out in my [discord server](https://discord.gg/26Xd7cE7Ww), we can talk about my projects or other random things.
