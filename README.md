@@ -1,6 +1,6 @@
 Hello o/
 
-I develop software. Not very good at it, but I try my best.
+I develop software. Among other things.
 
 I make Minecraft mods, along with a special MC IDE Launcher.
 Otherwise, I make random stuff for fun.
