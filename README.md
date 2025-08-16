@@ -7,7 +7,7 @@ Otherwise, I make random stuff for fun.
 
 Kotlin is the best programming language ever and you cannot tell me otherwise. \
 I strongly dislike any programming language that overuses arrow brackets <>. Who decided this was a good idea? \
-Otherwise I don't mind using Java, JS or Elixir from time to time.
+Otherwise I don't mind using Java, JS or Swift from time to time.
 
 I also do pixel art, mainly for MC textures.
 
